@@ -1,16 +1,19 @@
 # surd
 
-A new Flutter project.
+This project gonna make you happy. Because this app contains so much puzzles.
 
-## Getting Started
+## Puzzles
 
-This project is a starting point for a Flutter application.
+1. Simple messes up login form
+2. Just a home screen with hidden logout button
+3. Hidden buttons, user need to find and choose the right choise.
 
-A few resources to get you started if this is your first Flutter project:
+## Explanation
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1. All the choices 1% chance to win. Chance increase for more closer to win.
+2. They can't imagine there's no fixed answer.
+3. All the things reset if app get closed.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## TODO
+1. More features and ideas.
